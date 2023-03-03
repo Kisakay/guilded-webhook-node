@@ -1,6 +1,5 @@
 # Guilded Webhook Sender 
 ![version](https://img.shields.io/npm/v/guilded-webhook-node "Version")
-![npm](https://img.shields.io/npm/dt/guilded-webhook-node.svg "Total Downloads")
 
 - [Installation](#installation)
 - [Examples](#examples)
