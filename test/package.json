@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "guilded-webhook-node": "^1.1.0",
+    "guilded-webhook-node": "^1.1.2",
     "dotenv": "^16.0.3",
     "form-data": "^4.0.0"
   },
