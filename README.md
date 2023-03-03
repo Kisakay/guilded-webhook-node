@@ -1,4 +1,4 @@
-# guilded Webhook sending
+# Guilded Webhook Sender
 ![version](https://img.shields.io/npm/v/guilded-webhook-node "Version")
 ![npm](https://img.shields.io/npm/dt/guilded-webhook-node.svg "Total Downloads")
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/PeacefulTrees/guilded-webhook-node.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/PeacefulTrees/guilded-webhook-node/alerts/)
