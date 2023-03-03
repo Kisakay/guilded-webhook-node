@@ -1,0 +1,31 @@
+{
+  "name": "guilded-webhook-node",
+  "version": "1.0.0",
+  "description": "This package is based on discord-webhook-node, ported on Guilded's API",
+  "main": "./src/index.js",
+  "exports": {
+    "import": "./src/index.mjs",
+    "require": "./src/index.js"
+  },
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "mocha --timeout 50000"
+  },
+  "author": "PeacefulTrees",
+  "license": "MIT",
+  "keywords": [
+    "Webhook",
+    "Guilded",
+    "Bot"
+  ],
+  "homepage": "https://github.com/PeacefulTrees/guilded-webhook-node#readme",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "superagent": "^8.0.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "mocha": "^8.0.1"
+  }
+}
