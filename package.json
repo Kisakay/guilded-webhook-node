@@ -21,7 +21,6 @@
   "homepage": "https://github.com/PeacefulTrees/guilded-webhook-node#readme",
   "dependencies": {
     "form-data": "^3.0.0",
-    "node-fetch": "^2.6.0",
     "superagent": "^8.0.9"
   },
   "devDependencies": {

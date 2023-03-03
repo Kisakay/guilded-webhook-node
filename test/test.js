@@ -2,9 +2,9 @@ require('dotenv').config();
 const fs = require('fs').promises;
 const { Webhook, MessageBuilder } = require('../src');
 
-const hook = new Webhook("https://media.guilded.gg/webhooks/f923a593-e814-4db9-857f-80aee274f189/TfA4pTLu4UQI0QGeq6uqoaCSQSqMmOeCAQEaUAiICqWuqmA84sAEiQU0CAM8csUcEWaASyig2Es4GKeqoYuoQQ");
+const hook = new Webhook("");
 
-const IMAGE_URL = 'https://media.guilded.gg/webhooks/f923a593-e814-4db9-857f-80aee274f189/TfA4pTLu4UQI0QGeq6uqoaCSQSqMmOeCAQEaUAiICqWuqmA84sAEiQU0CAM8csUcEWaASyig2Es4GKeqoYuoQQ';
+const IMAGE_URL = '';
 
 hook.setUsername('Guilded Webhook Node Name');
 hook.setAvatar(IMAGE_URL);
