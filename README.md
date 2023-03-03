@@ -21,7 +21,7 @@ www.npmjs.com/package/discord-webhook-node
 This modules is just "Discord Webhook Node" for Guilded version.
 
 # Installation
-```npm install guilded-webhook-node``` or ```yarn add guilded-webhook-node```
+```npm install guilded-webhook-node```
 
 # Examples
 
